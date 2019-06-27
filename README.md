@@ -1,5 +1,5 @@
-# Explorer - ARK Desktop Wallet plugin
-Use the ARK Mainnet and Devnet explorers directly on the wallet 
+# Praxis Client and Praxis Developer - ARK Desktop Wallet plugin
+Use Praxis client and Praxis Developer directly in the wallet 
 
 ## Installation
 
@@ -9,9 +9,8 @@ Use the ARK Mainnet and Devnet explorers directly on the wallet
 
 ## Credits
 
-- [Juan A. Martín](https://github.com/j-a-m-l)
-- [All Contributors](../../contributors)
+- [Bill Donahue](https://github.com/incentum)
 
 ## License
 
-[MIT](LICENSE) © [Ark Ecosystem](https://ark.io/)
+[MIT](LICENSE) © [Incentum Ltd](https://incentum.network)

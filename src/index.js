@@ -2,25 +2,25 @@ module.exports = {
   register () {
     this.routes = [
       {
-        path: '/mainnet-explorer',
-        name: 'mainnet-explorer',
-        component: 'MainnetExplorer'
+        path: '/praxis-client',
+        name: 'praxis-client',
+        component: 'PraxisClient'
       },
       {
-        path: '/devnet-explorer',
-        name: 'devnet-explorer',
-        component: 'DevnetExplorer'
+        path: '/praxis-developer',
+        name: 'praxis-developer',
+        component: 'PraxisDeveloper'
       }
     ]
 
     this.menuItems = [
       {
-        routeName: 'mainnet-explorer',
-        title: 'Mainnet Explorer'
+        routeName: 'praxis-developer',
+        title: 'Praxis Developer'
       },
       {
-        routeName: 'devnet-explorer',
-        title: 'Devnet Explorer'
+        routeName: 'praxis-client',
+        title: 'Praxis Client'
       }
     ]
   },

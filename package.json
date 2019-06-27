@@ -1,8 +1,8 @@
 {
-  "name": "ark-explorer",
-  "title": "ARK Explorers on the wallet",
+  "name": "praxis-ark-plugin",
+  "title": "Praxis Ark Plugins for the Wallet",
   "version": "0.1.0",
-  "description": "Use the ARK Mainnet and Devnet explorers directly on the wallet",
+  "description": "Use the Praxis client and developer directly in the wallet",
   "main": "index.js",
   "permissions": [
   	"COMPONENTS",
@@ -12,15 +12,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/j-a-m-l/ark-desktop-explorer.git"
+    "url": "git+https://github.com/incentum-network/praxis-ark-plugin.git"
   },
   "keywords": [
     "ark"
   ],
-  "author": "Juan A. Martín <juan@ark.io>",
+  "author": "Bill Donahue <billd@incentum.network>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/j-a-m-l/ark-desktop-explorer/issues"
+    "url": "https://github.com/incentum-network/praxis-ark-plugin/issues"
   },
-  "homepage": "https://github.com/j-a-m-l/ark-desktop-explorer#readme"
+  "homepage": "https://github.com/incentum-network/praxis-ark-plugin#readme"
 }
