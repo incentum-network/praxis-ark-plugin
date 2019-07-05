@@ -1,8 +1,8 @@
 const rand = Math.floor((Math.random()*1000000)+1);
 module.exports = {
   template: `
-    <div>
-    <iframe src="https://praxis-developer.web.app?uid=${rand}" class="w-full h-full" />
+    <div  style="overflow:hidden;" >
+      <iframe src="https://praxis-developer.web.app?uid=${rand}" class="w-full h-full" />
     </div>
   `
 }
